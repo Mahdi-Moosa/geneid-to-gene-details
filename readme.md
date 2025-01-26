@@ -4,6 +4,7 @@
 
 1. Clone this repository.
 2. Create a configuration file named `config.ini` with the following content:
+
 	```[NCBI]
 	email = your_email@example.com```
 3. Replace `your_email@example.com` with your actual email address.
