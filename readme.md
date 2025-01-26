@@ -10,7 +10,7 @@
 	email = your_email@example.com
 	```
 3. Replace `your_email@example.com` with your actual email address.
-4. Run the script and provide the path to your input Excel file when prompted. The inout excel file should contain a column with the header 'Gene ID' (this column should contain all the gene ids.
+4. Run the script and provide the path to your input Excel file when prompted. The input excel file should contain a column with the header 'Gene ID' (this column should contain all the gene ids.
 
 ## Output
 
